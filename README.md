@@ -1,6 +1,8 @@
 # NEM : A Node.js Environment Manager
 
-![NEM](/docs/NEM.jpeg)
+<div align="center">
+<img src="docs/NEM.jpeg" alt="Example Image" width="200" height="200">
+</div>
 
 NEM is a tool that simplifies managing Node.js environments and packages. It enables you to create, activate, and control multiple environments with distinct Node.js versions and packages. Each environment remains isolated, allowing you to develop and test various projects concurrently without conflicts.
 
